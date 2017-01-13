@@ -1,4 +1,4 @@
-FROM openjdk:8-jre-alpine
+FROM openjdk:8-jdk-alpine
 MAINTAINER Albert Tavares de Almeida <alberttava@gmail.com>
 
 # Set environment
